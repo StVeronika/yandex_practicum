@@ -16,4 +16,4 @@
 
 ## Основные используемые инструменты и библиотеки:
  - SQL, PYTHON;
- - pandas, seaborn, matplotlib.pyplot, plotly.express, missingno, numpy.
+ - Pandas, Matplotlib, Seaborn, NamPy, SciPy, Sklearn.
